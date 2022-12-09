@@ -18,6 +18,6 @@ def cal(p1,p2):
     print(f"Division = {div()}")
     
 
-cal(25,5)
+cal(50,5)
 
 
